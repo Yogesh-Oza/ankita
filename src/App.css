@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f6f8;
+  }
+  
+  .App {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+  }
